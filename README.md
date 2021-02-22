@@ -1,6 +1,6 @@
 ## 神之·天灵 / Tianling Shen / CN_SZTL / 1715173329
 ## From Chongqing, China
-### OpenWrt Developer | Opensource Enthusiast | Severe Siscon
+### OpenWrt Enthusiast | Opensource Enthusiast | Severe Siscon
 ### Keybase: [@CN_SZTL](https://keybase.io/cn_sztl)
 
 ![https://github-readme-stats.vercel.app/api/top-langs/?username=1715173329&langs_count=8&layout=compact&theme=solarized-light](https://github-readme-stats.vercel.app/api/top-langs/?username=1715173329&langs_count=8&layout=compact&theme=solarized-light)
